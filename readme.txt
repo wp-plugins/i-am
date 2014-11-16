@@ -9,7 +9,7 @@ Author: iLen
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.4
-Version: 1.5
+Version: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,8 @@ Prove to your followers who you are, a cool and modern way.
 
 
 == Changelog ==
+= 1.6 =
+* Update core <code>iLenFramework 1.6.5</code>
 = 1.5 =
 * Fix core
 = 1.4 =

@@ -21,7 +21,7 @@ class i_am_make extends WP_Widget{
                      'name_option'    =>'i_am',
                      'name_plugin_url'=>'i-am',
                      'descripcion'    =>'Show who you are in your blog',
-                     'version'        =>'1.7',
+                     'version'        =>'1.8',
                      'url'            =>'',
                      'logo'           =>'<i class="fa fa-user text-long" style="padding:16px 19px;"></i>',
                       // or image .jpg,png | use class 'text-long' in case of name long

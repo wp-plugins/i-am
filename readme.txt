@@ -9,10 +9,10 @@ Author: iLen
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.9
-Version: 1.9.1
+Version: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2
 
 Show who you are in you blog
 
@@ -46,6 +46,8 @@ Prove to your followers who you are, a cool and modern way.
 
 
 == Changelog ==
+= 2.0 =
+Add button 'donate'
 = 1.9.1 =
 * Update core <code>iLenFramework 1.9.1</code>
 = 1.9 =

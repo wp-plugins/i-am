@@ -3,7 +3,7 @@
 Plugin Name: I am
 Plugin URI: https://wordpress.org/plugins/i-am/
 Description: Show who you are in your blog
-Version: 1.9.1
+Version: 2.0
 Author: iLen
 Author URI: http://es.ilentheme.com
 */

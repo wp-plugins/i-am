@@ -3,12 +3,14 @@
 Plugin Name: I am
 Plugin URI: https://wordpress.org/plugins/i-am/
 Description: Show who you are in your blog
-Version: 2.0
+Version: 2.1
 Author: iLen
-Author URI: http://es.ilentheme.com
+Author URI: http://ilentheme.com
 */
 if ( !class_exists('i_am') ) {
-require_once 'assets/functions/options.php';
+
+require_once 'assets/ilenframework/assets/lib/utils.php'; // get utils
+require_once 'assets/functions/options.php'; // get options plugins
 
 class i_am extends i_am_make{
     public $parameter  = array();
@@ -25,7 +27,8 @@ class i_am extends i_am_make{
   }
 
   function widget($args,$instance){
-    $opt_iam = IF_get_option( $this->parameter['name'] ) ;
+    global $if_utils;
+    $opt_iam = $if_utils->IF_get_option( $this->parameter['name'] ) ;
 
     ?>
 <div class="wp_i_am widget">

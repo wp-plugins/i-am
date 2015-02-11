@@ -7,9 +7,9 @@ Tags: about,profile,blog,avatar,social icons,social,card,vcard,plugin vcard,plug
 Author URI: es.ilentheme.com
 Author: iLen
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.9
-Version: 2.0
+Tested up to: 4.1
+Stable tag: 2.1
+Version: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2
@@ -46,6 +46,8 @@ Prove to your followers who you are, a cool and modern way.
 
 
 == Changelog ==
+= 2.1 =
+* Update core <code>iLenFramework 2.0</code>
 = 2.0 =
 Add button 'donate'
 = 1.9.1 =

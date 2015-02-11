@@ -29,12 +29,13 @@ class i_am_make extends WP_Widget{
                      'slogan'         =>'', // powered by <a href="">iLenTheme</a>
                      'url_framework'  =>plugins_url()."/i-am/assets/ilenframework",
                      'theme_imagen'   =>plugins_url()."/i-am/assets/images",
-                     'twitter'        => 'https://twitter.com/intent/tweet?text=View this awesome plugin WP;url=http://bit.ly/Xz8MYo&amp;via=iLenTheme',
+                     'twitter'        => '',
                      'wp_review'      => 'http://wordpress.org/support/view/plugin-reviews/i-am?filter=5',
                      'link_donate'    => 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2',
                      'type'           =>'plugin',
                      'method'         =>'free',
-                     'themeadmin'     =>'fresh');
+                     'themeadmin'     =>'fresh',
+                     'scripts_admin'  =>array( 'page' => array('i-am' => array('jquery_ui_reset')), ));
     }
 
     function getOptionsPlugin(){

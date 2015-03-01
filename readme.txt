@@ -17,6 +17,9 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Show who you are in you blog
 
 == Description ==
+<blockquote>
+  <p>Support for this plugin will only be served <a href="http://support.ilentheme.com" target="_blank">HERE</a></p>
+</blockquote>
 <h3>Become known to all.</h3>
 'I am' is a widget plugin that shows who you are, ie you place the widget in the desired position, once configured in your admin panel.
 You can customize the following options:

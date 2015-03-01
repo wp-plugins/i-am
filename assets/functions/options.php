@@ -21,7 +21,7 @@ class i_am_make extends WP_Widget{
                      'name_option'    =>'i_am',
                      'name_plugin_url'=>'i-am',
                      'descripcion'    =>'Show who you are in your blog',
-                     'version'        =>'2.2',
+                     'version'        =>'2.3',
                      'url'            =>'',
                      'logo'           =>'<i class="fa fa-user text-long" style="padding:16px 19px;"></i>',
                       // or image .jpg,png | use class 'text-long' in case of name long
@@ -29,9 +29,10 @@ class i_am_make extends WP_Widget{
                      'slogan'         =>'', // powered by <a href="">iLenTheme</a>
                      'url_framework'  =>plugins_url()."/i-am/assets/ilenframework",
                      'theme_imagen'   =>plugins_url()."/i-am/assets/images",
-                     'twitter'        => '',
-                     'wp_review'      => 'http://wordpress.org/support/view/plugin-reviews/i-am?filter=5',
-                     'link_donate'    => 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2',
+                     'twitter'        =>'',
+                     'wp_review'      =>'http://wordpress.org/support/view/plugin-reviews/i-am?filter=5',
+                     'link_donate'    =>'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2',
+                     'wp_support'     =>'http://support.ilentheme.com/forums/forum/plugins/i-am/',
                      'type'           =>'plugin',
                      'method'         =>'free',
                      'themeadmin'     =>'fresh',

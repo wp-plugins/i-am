@@ -9,7 +9,7 @@ Author: iLen
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 2.2
-Version: 2.3
+Version: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2
@@ -49,6 +49,8 @@ Prove to your followers who you are, a cool and modern way.
 
 
 == Changelog ==
+= 2.4 =
+* Update core and css
 = 2.3 =
 * Update link for support
 = 2.2 =

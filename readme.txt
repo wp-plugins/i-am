@@ -7,9 +7,9 @@ Tags: about,profile,blog,avatar,social icons,social,card,vcard,plugin vcard,plug
 Author URI: es.ilentheme.com
 Author: iLen
 Requires at least: 3.5
-Tested up to: 4.2.1
+Tested up to: 4.2.3
 Stable tag: 2.8
-Version: 2.8
+Version: 2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDDBF2CUFPMF2
@@ -49,6 +49,8 @@ Prove to your followers who you are, a cool and modern way.
 
 
 == Changelog ==
+= 2.9 =
+* Update core <code>iLenFramework 2.6.6</code>
 = 2.8 =
 * Update core <code>iLenFramework 2.5.4</code>
 = 2.7 =
